@@ -1,5 +1,5 @@
 {
-  "name": "solucion-examen",
+  "name": "s",
   "version": "1.0.0",
   "description": "Solución del Examen de la Materia POO",
   "main": "index.js",
@@ -20,6 +20,8 @@
     "colors": "^1.3.0",
     "lodash": "^4.17.10",
     "moment": "^2.22.2",
+    "mongoose": "^5.2.7",
+    "mongose": "0.0.2-security",
     "readline-sync": "^1.4.9"
   },
   "devDependencies": {
